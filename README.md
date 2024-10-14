@@ -38,7 +38,7 @@ About Sonic Labs (Prev Fantom)
 1. clone the repo and install dependencies
 
    ```bash
-   git clone https://github.com/web3bothub/soniclabs-arcade-bot.git
+   git clone https://github.com/jadenunwa/soniclabs-arcade-bot.git
    cd soniclabs-arcade-bot
    npm install
    ```
