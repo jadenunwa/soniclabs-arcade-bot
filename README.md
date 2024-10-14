@@ -63,7 +63,9 @@ Support Overtrure
 You can donate to the author of the code
 
 EVM : 0xa2f5b8d9689d20d452c5340745a9a2c0104c40de
+
 SOLANA : HCbbrqD9Xvfqx7nWjNPaejYDtXFp4iY8PT7F4i8PpE5K
+
 TON : UQBD-ms1jA9cmoo8O39BXI6jqh8zwRSoBMUAl4yjEPKD6ata
 
 Credit: Overtrure
